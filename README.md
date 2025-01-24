@@ -1,4 +1,4 @@
-Hi, I’m Lamia Eid!
+👋Hi, I’m Lamia Eid!
 
 Aspiring Full-Stack Developer | Problem-Solver | Software Engineer
 
