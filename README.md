@@ -45,4 +45,4 @@ Aspiring Full-Stack Developer | Problem-Solver | Software Engineer
 
 📫 Let’s Connect!
 	•	LinkedIn: https://www.linkedin.com/in/lamia-eid-249b3431a/
-	•	Email: lamiaeid12345@gmail.com
+	•	Email: eidlamia0@gmail.com
