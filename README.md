@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website built with React.js showcasing p
 
 ## 🚀 Live Demo
 
-[View Portfolio](https://lamiaeid1.github.io/portfolio)
+[https://lamiaeid1.github.io/portfolio]
 
 ![Screenshot 2025-07-03 091626](https://github.com/user-attachments/assets/5a5a3eb8-2ac7-4abb-89cc-73327d2db593)
 
@@ -147,9 +147,6 @@ Update your personal information in the respective component files:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 
