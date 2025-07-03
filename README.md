@@ -155,7 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Name:** Lamia Eid
 - **Email:** eidlamia0@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/lamia-eid-249b3431a/]
+- **LinkedIn:** [Lamia Eid](https://www.linkedin.com/in/lamia-eid-249b3431a/)
 - **GitHub:** [lamiaeid1](https://github.com/lamiaeid1)
 
 ---
